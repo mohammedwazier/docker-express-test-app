@@ -3,3 +3,4 @@ npm-debug.log
 .gitignore
 yarn.lock
 .git
+README.*
